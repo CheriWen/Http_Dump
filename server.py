@@ -306,7 +306,7 @@ if __name__ == '__main__':
     key_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'key.pem')
 
     print('=' * 60)
-    print('  httpdump')
+    print('  Http_Dump')
     print('  https://localhost:8443')
     print('  Accepts any method/path, prints raw data')
     print('=' * 60)
